@@ -1,6 +1,6 @@
 {
   "name": "compass-css-arrow",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "sass mixin to create css-only arrow to a block",
   "main": "stylesheets/compass-css-arrow/_css-arrow.scss",
   "directories": {
