@@ -1,0 +1,24 @@
+{
+  "name": "compass-css-arrow",
+  "version": "0.0.1",
+  "homepage": "https://github.com/twhtanghk/compass-css-arrow",
+  "authors": [
+    "Tommy Tang <twhtanghk@gmail.com>"
+  ],
+  "description": "sass mixin to create css-only arrow to a block",
+  "main": "stylesheets/compass-css-arrow/_css-arrow.scss",
+  "moduleType": [],
+  "keywords": [
+    "css",
+    "cssarrow",
+    "cssarrowplease"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

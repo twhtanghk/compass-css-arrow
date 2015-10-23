@@ -8,6 +8,14 @@ The original CSS code is taken from [cssarrowplease](http://cssarrowplease.com/)
 Installation
 ------------
 
+With NPM :
+	
+	npm install compass-css-arrow
+	
+With Bower :
+	
+	bower install compass-css-arrow
+	
 With Bundler :
 
     // in your Gemfile
